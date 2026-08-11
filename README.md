@@ -10,7 +10,7 @@ This project is a frontend recreation of an Amazon-style e-commerce homepage. It
 
 ## 📸 Preview
 
-![Amazon Clone Preview](amazon-clone-preview.png)
+![Amazon Clone Preview](./amazon-clone-screenshot.png)
 
 ## ✨ Features
 

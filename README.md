@@ -8,6 +8,10 @@ A frontend Amazon-inspired e-commerce website built using HTML and CSS.
 
 This project is a frontend recreation of an Amazon-style e-commerce homepage. It was built to practice HTML structure, CSS styling, layouts, and creating a real-world website interface from scratch.
 
+## 📸 Preview
+
+![Amazon Clone Preview](amazon-clone-preview.png)
+
 ## ✨ Features
 
 - Amazon-inspired navigation bar
